@@ -1,6 +1,5 @@
 <p align="center">
 <img src="./newlogo.svg"><br>
-<a href="https://trello.com/b/duVOc3vL/slipstream">Trello page</a>
 </p>
 
 <p align="center">
